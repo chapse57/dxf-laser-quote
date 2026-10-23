@@ -4,7 +4,7 @@ Drop in a DXF, pick material and thickness, get cut time and a price.
 Built for a small laser cutting shop with no IT staff: the rates live in an
 Excel file the shop edits itself.
 
-![flange quote](docs/screenshot_flange_d200.png)
+![flange quote](docs/flange_d200/image.png)
 
 ## What it does
 
@@ -27,7 +27,7 @@ Excel file the shop edits itself.
    Every step is shown in the breakdown, so a wrong number is easy to trace.
 4. Shows the contours it counted. Open contours (a gap in the outline) are drawn in red with a warning, because they usually mean the file needs fixing before it goes to the machine.
 
-![gap warning](docs/screenshot_broken_gap.png)
+![gap warning](docs/broken_gap/image.png)
 
 ## Run it
 
